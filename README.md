@@ -1,6 +1,6 @@
 ## d3pie
 
-### Project expired
+### Project expired by original author
 
 As of today (Jan 13th, 2020) I've let this project expire. The website won't be around any more. It hasn't been developed in years and while I really liked the script I think it's better to shut it down than give a faulty impresson that it's up and running and cause people more work in the long run. 
 
